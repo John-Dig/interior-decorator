@@ -1,0 +1,91 @@
+h1 {
+  color:darkblue;
+  font-size:xx-large;
+  text-align:center;
+}
+
+h2 {
+  color:purple;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: medium;
+  text-align: center;
+
+}
+
+h3 {
+  color:blueviolet;
+  font-size:x-large;
+  text-align: center;
+}
+
+body, html {
+  margin-left:100px;
+  background-color: bisque;
+  }
+
+.column {
+  width: 400px;
+  float:left;
+  padding:40px;
+
+}
+.columnsAll{
+  align-items: center;
+}
+
+
+img {
+  width: 400px;
+  
+
+}
+
+
+
+
+
+
+/*CSS FROM BAND-WEBSITE TO REFER TO 
+/* h1 {
+  color:darkblue;
+  font-size:xx-large;
+  text-align:center;
+}
+
+
+h2 {
+  color:blueviolet;
+  font-size:x-large;
+  text-align: center;
+}
+
+body {
+  float:left;
+  width:80%;
+  margin-right: 500px;
+  margin-left:200px;
+  background-color: cornsilk;
+
+}
+p {
+  
+}
+
+img {
+  float:left;
+  width:500px;
+  top:0;
+}
+
+.sidebar {
+  float:right;
+  color:wheat;
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 300px; /* Set the width of the sidebar */
+  top: 0; /* Stay at the top */
+  right: 0;
+  text-align: left;
+  background-color: rgb(120, 47, 47); /* Black */
+  padding-top: 20px;
+  padding-left: 20px;
+} */
